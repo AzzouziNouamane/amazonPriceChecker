@@ -19,7 +19,7 @@ The 2 arguments needed are :
   1. URL of the Amazon's product.
   2. The price that you can afford to buy the product.
   
-  For example : python ./scraper.py amazon.com/MyBeautifulProductsURL 15.90
+  For example : ``python ./scraper.py amazon.com/MyBeautifulProductsURL 15.90``
 ### Author
 [AZZOUZI Nouamane](https://github.com/AzzouziNouamane)
 

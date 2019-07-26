@@ -8,9 +8,10 @@ This script will allow you to keep an eye continuously on the price of your wish
 ### Prerequisites
 
 You will need to install 2 libraries : 
+requests & bs4
+
+To do so, paste this line in your terminal : 
 ```
-requests
-bs4
 pip install requests bs4
 ```
 

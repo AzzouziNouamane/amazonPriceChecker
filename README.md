@@ -20,5 +20,5 @@ The 2 arguments needed are :
   2/ The price that you can afford to buy the product.
 
 ### Author
-AZZOUZI Nouamane
+[AZZOUZI Nouamane](https://github.com/AzzouziNouamane)
 
